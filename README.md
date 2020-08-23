@@ -26,7 +26,7 @@
 
 
 | ⭐️         |     🗓    | 📦 Repo     |  🧰 Language | 📚 Description |
-| --------- | --------- | ----------- |              | -------------- |
+| --------- | --------- | ----------- | ------------ | -------------- |
 | 0 | {{ REPO_CREATED_YYYY }} | [cpc](https://github.com/probablykasper/cpc) | Rust | Text calculator with support for units and conversion |
 | 0 | {{ REPO_CREATED_YYYY }} | [v6.kasper.space](https://github.com/probablykasper/v6.kasper.space) | Vue | Personal website |
 | 1 | {{ REPO_CREATED_YYYY }} | [vidl](https://github.com/probablykasper/vidl) | Python | Python script for downloading video/audio |
