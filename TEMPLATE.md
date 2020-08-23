@@ -42,6 +42,10 @@ module.exports = {
       'thumbnail-grabber',
       'gpm-to-itunes',
     ],
+    modifyVariables: function(repo, moment, user) {
+      if (repo.REPO_LANGUAGE === 'JavaScript') repo.REPO_LANGUAGE = 'JS'
+      return repo
+    },
   },
 }
 // {{ :TEMPLATE }}
