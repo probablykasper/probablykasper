@@ -1,7 +1,5 @@
 ### Hi, I'm a developer from <img src="https://image.flaticon.com/icons/svg/197/197579.svg" width="13" /> Norway.
 
-> User since March 2015
-
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-63B587?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -42,7 +40,6 @@ module.exports = {
       'to',
       'readme-template-action',
       'thumbnail-grabber',
-      'v4.kasper.space',
       'gpm-to-itunes',
     ],
   },
@@ -50,8 +47,8 @@ module.exports = {
 // {{ :TEMPLATE }}
 ```
 
-| ⭐️         | 📦 Repo    | 📚 Description |
-| --------- | ----------- | -------------- |
+| ⭐️         |     🗓    | 📦 Repo     |  🧰 Language |    | 📚 Description |
+| --------- | --------- | ----------- |              | -------------- |
 {{ loop CUSTOM_PINNED_REPOS }}
-| {{ REPO_STARS }} | [{{ REPO_NAME }}]({{ REPO_URL }}) | {{ REPO_DESCRIPTION }} |
+| {{ REPO_STARS }} | {{ REPO_CREATED_YYYY }} | [{{ REPO_NAME }}]({{ REPO_URL }}) | {{ REPO_LANGUAGE }} | {{ REPO_DESCRIPTION }} |
 {{ end CUSTOM_PINNED_REPOS }}
