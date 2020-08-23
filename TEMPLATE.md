@@ -50,5 +50,5 @@ module.exports = {
 | ⭐️         |     🗓    | 📦 Repo     |  🧰 Language | 📚 Description |
 | --------- | --------- | ----------- | ------------ | -------------- |
 {{ loop CUSTOM_PINNED_REPOS }}
-| {{ REPO_STARS }} | {{ REPO_CREATED_YYYY }} | [{{ REPO_NAME }}]({{ REPO_URL }}) | {{ REPO_LANGUAGE }} | {{ REPO_DESCRIPTION }} |
+| {{ REPO_STARS }} | {{ REPO_CREATED_YEAR }} | [{{ REPO_NAME }}]({{ REPO_URL }}) | {{ REPO_LANGUAGE }} | {{ REPO_DESCRIPTION }} |
 {{ end CUSTOM_PINNED_REPOS }}
