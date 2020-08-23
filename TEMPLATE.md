@@ -47,8 +47,8 @@ module.exports = {
 // {{ :TEMPLATE }}
 ```
 
-| ⭐️         | 📦 Repo     |  🧰 Lang | 📚 Description |
-| --------- | ----------- | ------------ | -------------- |
+| ⭐️ | 🧰 | 📦 Repo       | 📚 Description |
+| -- | -- | ------------ | -------------- |
 {{ loop CUSTOM_PINNED_REPOS }}
-| {{ REPO_STARS }} | [{{ REPO_NAME }}]({{ REPO_URL }}) | {{ REPO_LANGUAGE }} | {{ REPO_DESCRIPTION }} |
+| {{ REPO_STARS }} | {{ REPO_LANGUAGE }} | [{{ REPO_NAME }}]({{ REPO_URL }}) | {{ REPO_DESCRIPTION }} |
 {{ end CUSTOM_PINNED_REPOS }}
