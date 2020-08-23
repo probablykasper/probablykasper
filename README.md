@@ -25,7 +25,7 @@
 ### Highlighted repos:
 
 
-| ⭐️         | 📦 Repo     |  🧰 Language | 📚 Description |
+| ⭐️         | 📦 Repo     |  🧰 Lang | 📚 Description |
 | --------- | ----------- | ------------ | -------------- |
 | 0 | [cpc](https://github.com/probablykasper/cpc) | Rust | Text calculator with support for units and conversion |
 | 0 | [v6.kasper.space](https://github.com/probablykasper/v6.kasper.space) | Vue | Personal website |
