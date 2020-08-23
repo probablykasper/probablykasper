@@ -27,17 +27,17 @@
 ### Highlighted repos:
 
 
-| ⭐️ Stars   | 📦 Repo    | 📚 Description |
+| ⭐️         | 📦 Repo    | 📚 Description |
 | --------- | ----------- | -------------- |
-| 0 | [probablykasper/cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
-| 0 | [probablykasper/v6.kasper.space](https://github.com/probablykasper/v6.kasper.space) | Personal website |
-| 1 | [probablykasper/vidl](https://github.com/probablykasper/vidl) | Python script for downloading video/audio |
-| 0 | [probablykasper/embler](https://github.com/probablykasper/embler) | Turn binaries into applications |
-| 1 | [probablykasper/notifier](https://github.com/probablykasper/notifier) | Flutter app for scheduling notifications |
-| 1 | [probablykasper/taskler](https://github.com/probablykasper/taskler) | A nice, simple text editor in your New Tab page |
-| 0 | [probablykasper/2dcam](https://github.com/probablykasper/2dcam) | After Effects 2d camera |
-| 0 | [probablykasper/to](https://github.com/probablykasper/to) | null |
-| 0 | [probablykasper/readme-template-action](https://github.com/probablykasper/readme-template-action) | Fills in variables (with loop support) from a TEMPLATE.md into a README.md |
-| 0 | [probablykasper/thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber) | Chrome extension for grabbing thumbnails/covers |
-| 0 | [probablykasper/v4.kasper.space](https://github.com/probablykasper/v4.kasper.space) | Personal website |
-| 0 | [probablykasper/gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes) | Imports Google Play Music playlists and songs to iTunes (including play counts and date added) |
+| 0 | [cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
+| 0 | [v6.kasper.space](https://github.com/probablykasper/v6.kasper.space) | Personal website |
+| 1 | [vidl](https://github.com/probablykasper/vidl) | Python script for downloading video/audio |
+| 0 | [embler](https://github.com/probablykasper/embler) | Turn binaries into applications |
+| 1 | [notifier](https://github.com/probablykasper/notifier) | Flutter app for scheduling notifications |
+| 1 | [taskler](https://github.com/probablykasper/taskler) | A nice, simple text editor in your New Tab page |
+| 0 | [2dcam](https://github.com/probablykasper/2dcam) | After Effects 2d camera |
+| 0 | [to](https://github.com/probablykasper/to) | null |
+| 0 | [readme-template-action](https://github.com/probablykasper/readme-template-action) | Fills in variables (with loop support) from a TEMPLATE.md into a README.md |
+| 0 | [thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber) | Chrome extension for grabbing thumbnails/covers |
+| 0 | [v4.kasper.space](https://github.com/probablykasper/v4.kasper.space) | Personal website |
+| 0 | [gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes) | Imports Google Play Music playlists and songs to iTunes (including play counts and date added) |
