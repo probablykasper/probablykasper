@@ -1,7 +1,5 @@
 ### Hi, I'm a developer from <img src="https://image.flaticon.com/icons/svg/197/197579.svg" width="13" /> Norway.
 
-> User since March 2015
-
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-63B587?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -27,17 +25,16 @@
 ### Highlighted repos:
 
 
-| ⭐️         | 📦 Repo    | 📚 Description |
-| --------- | ----------- | -------------- |
-| 0 | [cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
-| 0 | [v6.kasper.space](https://github.com/probablykasper/v6.kasper.space) | Personal website |
-| 1 | [vidl](https://github.com/probablykasper/vidl) | Python script for downloading video/audio |
-| 0 | [embler](https://github.com/probablykasper/embler) | Turn binaries into applications |
-| 1 | [notifier](https://github.com/probablykasper/notifier) | Flutter app for scheduling notifications |
-| 1 | [taskler](https://github.com/probablykasper/taskler) | A nice, simple text editor in your New Tab page |
-| 0 | [2dcam](https://github.com/probablykasper/2dcam) | After Effects 2d camera |
-| 0 | [to](https://github.com/probablykasper/to) | null |
-| 0 | [readme-template-action](https://github.com/probablykasper/readme-template-action) | Fills in variables (with loop support) from a TEMPLATE.md into a README.md |
-| 0 | [thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber) | Chrome extension for grabbing thumbnails/covers |
-| 0 | [v4.kasper.space](https://github.com/probablykasper/v4.kasper.space) | Personal website |
-| 0 | [gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes) | Imports Google Play Music playlists and songs to iTunes (including play counts and date added) |
+| ⭐️         |     🗓    | 📦 Repo     |  🧰 Language |    | 📚 Description |
+| --------- | --------- | ----------- |              | -------------- |
+| 0 | {{ REPO_CREATED_YYYY }} | [cpc](https://github.com/probablykasper/cpc) | Rust | Text calculator with support for units and conversion |
+| 0 | {{ REPO_CREATED_YYYY }} | [v6.kasper.space](https://github.com/probablykasper/v6.kasper.space) | Vue | Personal website |
+| 1 | {{ REPO_CREATED_YYYY }} | [vidl](https://github.com/probablykasper/vidl) | Python | Python script for downloading video/audio |
+| 0 | {{ REPO_CREATED_YYYY }} | [embler](https://github.com/probablykasper/embler) | JavaScript | Turn binaries into applications |
+| 1 | {{ REPO_CREATED_YYYY }} | [notifier](https://github.com/probablykasper/notifier) | Dart | Flutter app for scheduling notifications |
+| 1 | {{ REPO_CREATED_YYYY }} | [taskler](https://github.com/probablykasper/taskler) | CSS | A nice, simple text editor in your New Tab page |
+| 0 | {{ REPO_CREATED_YYYY }} | [2dcam](https://github.com/probablykasper/2dcam) | JavaScript | After Effects 2d camera |
+| 0 | {{ REPO_CREATED_YYYY }} | [to](https://github.com/probablykasper/to) | Shell | CLI tool for converting audio, video and image files using FFmpeg and ImageMagick |
+| 0 | {{ REPO_CREATED_YYYY }} | [readme-template-action](https://github.com/probablykasper/readme-template-action) | JavaScript | Turns a TEMPLATE.md into a README.md with GitHub API data. Supports variables, loops and even custom queries |
+| 0 | {{ REPO_CREATED_YYYY }} | [thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber) | JavaScript | Chrome extension for grabbing thumbnails/covers |
+| 0 | {{ REPO_CREATED_YYYY }} | [gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes) | Python | Imports Google Play Music playlists and songs to iTunes (including play counts and date added) |
