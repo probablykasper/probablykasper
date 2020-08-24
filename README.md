@@ -30,7 +30,7 @@
 | 0 | [cpc](https://github.com/probablykasper/cpc) | Rust | Text calculator with support for units and conversion |
 | 0 | [v6.kasper.space](https://github.com/probablykasper/v6.kasper.space) | Vue | Personal website |
 | 1 | [vidl](https://github.com/probablykasper/vidl) | Python | Python script for downloading video/audio |
-| 0 | [embler](https://github.com/probablykasper/embler) | JS | Turn binaries into applications |
+| 1 | [embler](https://github.com/probablykasper/embler) | JS | Turn binaries into applications |
 | 1 | [notifier](https://github.com/probablykasper/notifier) | Dart | Flutter app for scheduling notifications |
 | 1 | [taskler](https://github.com/probablykasper/taskler) | CSS | A nice, simple text editor in your New Tab page |
 | 0 | [2dcam](https://github.com/probablykasper/2dcam) | JS | After Effects 2d camera |
