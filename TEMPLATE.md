@@ -54,5 +54,5 @@ module.exports = {
 | ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
 | -- | ------------ | -- | -------------- |
 {{ loop CUSTOM_PINNED_REPOS }}
-| {{ REPO_STARS }} | [{{ REPO_NAME }}]({{ REPO_URL }}) | {{ REPO_LANGUAGE }} | {{ REPO_DESCRIPTION }} |
+| <small>{{ REPO_STARS }}</small> | <small><b>[{{ REPO_NAME }}]({{ REPO_URL }})</b></small> | <small>{{ REPO_LANGUAGE }}</small> | <small>{{ REPO_DESCRIPTION }}</small> |
 {{ end CUSTOM_PINNED_REPOS }}
