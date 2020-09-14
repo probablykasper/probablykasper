@@ -36,10 +36,10 @@ module.exports = {
       'embler',
       'notifier',
       'taskler',
+      'thumbnail-grabber',
       '2dcam',
       'to',
       'readme-template-action',
-      'thumbnail-grabber',
       'gpm-to-itunes',
     ],
     modifyVariables: function(repo, moment, user) {
