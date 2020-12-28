@@ -4,6 +4,7 @@ on:
     - cron: '0 */4 * * *' # every 4 hours
   push:
     branches: [ master ]
+  workflow_dispatch:
 jobs:
   publish:
     runs-on: ubuntu-latest
