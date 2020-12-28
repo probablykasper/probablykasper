@@ -36,5 +36,5 @@
 | 0 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JS | Chrome extension for grabbing thumbnails/covers |
 | 0 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JS | After Effects 2d camera |
 | 0 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI tool for converting audio, video and image files using FFmpeg and ImageMagick |
-| 1 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | JS | Turns a TEMPLATE.md into a README.md with GitHub API data. Supports variables, loops and even custom queries |
+| 1 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | JS | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
 | 0 | <b>[gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes)</b> | Python | Imports Google Play Music library to iTunes |
