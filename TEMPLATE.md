@@ -16,8 +16,8 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3E89F5?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <!-- <img alt="Bash" src="https://img.shields.io/badge/-Bash-2B3136?style=flat-square&logo=gnu-bash&logoColor=white" /> -->
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-3277B4?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="User since 2015-03-04" src="https://img.shields.io/badge/Joined-2015--03--04-2eb872?style=flat-square&logo=github&logoColor=white&labelColor=2f3438" />
   <img src="https://gpvc.arturio.dev/probablykasper" />
 </p>
