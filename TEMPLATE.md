@@ -36,6 +36,7 @@ module.exports = {
       'embler',
       'notifier',
       'taskler',
+      'redlux',
       'thumbnail-grabber',
       '2dcam',
       'to',
