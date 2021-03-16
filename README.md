@@ -27,7 +27,7 @@
 
 | ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
 | -- | ------------ | -- | -------------- |
-| 24 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
+| 23 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 0 | <b>[v6.kasper.space](https://github.com/probablykasper/v6.kasper.space)</b> | Vue | Personal website |
 | 1 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | Python script for downloading video/audio |
 | 1 | <b>[embler](https://github.com/probablykasper/embler)</b> | JS | Turn binaries into applications |
