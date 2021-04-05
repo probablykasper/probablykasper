@@ -29,7 +29,7 @@
 | -- | ------------ | -- | -------------- |
 | 25 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 0 | <b>[v6.kasper.space](https://github.com/probablykasper/v6.kasper.space)</b> | Vue | Personal website |
-| 1 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | Python script for downloading video/audio |
+| 2 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | Python script for downloading video/audio |
 | 1 | <b>[embler](https://github.com/probablykasper/embler)</b> | JS | Turn binaries into applications |
 | 1 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | CSS | A nice, simple text editor in your New Tab page |
