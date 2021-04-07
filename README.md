@@ -32,10 +32,10 @@
 | 2 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | Python script for downloading video/audio |
 | 1 | <b>[embler](https://github.com/probablykasper/embler)</b> | JS | Turn binaries into applications |
 | 1 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
-| 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | CSS | A nice, simple text editor in your New Tab page |
+| 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | A nice, simple text editor in your New Tab page |
 | 3 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 0 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JS | Chrome extension for grabbing thumbnails/covers |
 | 0 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JS | After Effects 2d camera |
 | 0 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI tool for converting audio, video and image files using FFmpeg and ImageMagick |
-| 2 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
+| 1 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
 | 0 | <b>[gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes)</b> | Python | Imports Google Play Music library to iTunes |
