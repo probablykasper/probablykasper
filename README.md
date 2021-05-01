@@ -33,7 +33,7 @@
 | 1 | <b>[embler](https://github.com/probablykasper/embler)</b> | JS | Turn binaries into applications |
 | 1 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | A nice, simple text editor in your New Tab page |
-| 4 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
+| 5 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 0 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JS | Chrome extension for grabbing thumbnails/covers |
 | 0 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JS | After Effects 2d camera |
 | 0 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI tool for converting audio, video and image files using FFmpeg and ImageMagick |
