@@ -39,4 +39,5 @@
 | 0 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI tool for converting audio, video and image files using FFmpeg and ImageMagick |
 | 0 | <b>[yt-email-notifier](https://github.com/probablykasper/yt-email-notifier)</b> | JS | macOS menubar app for YouTube upload notification emails |
 | 1 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
+| 0 | <b>[serve](https://github.com/probablykasper/serve)</b> | Go | Simple static file/directory HTTP server |
 | 0 | <b>[gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes)</b> | Python | Imports Google Play Music library to iTunes |
