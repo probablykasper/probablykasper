@@ -42,6 +42,7 @@ module.exports = {
       'to',
       'yt-email-notifier',
       'readme-template-action',
+      'serve',
       'gpm-to-itunes',
     ],
     modifyVariables: function(repo, moment, user) {
