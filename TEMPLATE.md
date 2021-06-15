@@ -40,6 +40,7 @@ module.exports = {
       'thumbnail-grabber',
       '2dcam',
       'to',
+      'yt-email-notifier',
       'readme-template-action',
       'gpm-to-itunes',
     ],
