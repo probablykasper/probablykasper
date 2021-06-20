@@ -1,4 +1,4 @@
-## Hi, I'm a developer from <img src="https://image.flaticon.com/icons/svg/197/197579.svg" width="16" /> Norway.
+### Hi, I'm a developer from <img src="https://image.flaticon.com/icons/svg/197/197579.svg" width="16" /> Norway
 
 <!--<p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-63B587?style=flat-square&logo=vue.js&logoColor=white" />
@@ -20,8 +20,6 @@
   <img alt="User since 2015-03-04" src="https://img.shields.io/badge/Joined-2015--03--04-2eb872?style=flat-square&logo=github&logoColor=white&labelColor=2f3438" />
   <img src="https://gpvc.arturio.dev/probablykasper" />
 </p>-->
-
-### Highlighted repos:
 
 
 | ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
