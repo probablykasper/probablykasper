@@ -28,7 +28,7 @@
 | 0 | <b>[v6.kasper.space](https://github.com/probablykasper/v6.kasper.space)</b> | Vue | Personal website |
 | 2 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | Python script for downloading video/audio |
 | 1 | <b>[embler](https://github.com/probablykasper/embler)</b> | JS | Turn binaries into applications |
-| 1 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
+| 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | A nice, simple text editor in your New Tab page |
 | 6 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 0 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JS | Chrome extension for grabbing thumbnails/covers |
