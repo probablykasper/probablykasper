@@ -28,6 +28,7 @@ module.exports = {
     type: 'specificRepos',
     repos: [
       'cpc',
+      'ferrum',
       'v6.kasper.space',
       'vidl',
       'embler',
