@@ -41,7 +41,6 @@ module.exports = {
       'yt-email-notifier',
       'readme-template-action',
       'serve',
-      'gpm-to-itunes',
     ],
     modifyVariables: function(repo, moment, user) {
       if (repo.REPO_LANGUAGE === 'JavaScript') repo.REPO_LANGUAGE = 'JS'
