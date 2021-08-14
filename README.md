@@ -27,7 +27,7 @@
 | 40 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 4 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 0 | <b>[v6.kasper.space](https://github.com/probablykasper/v6.kasper.space)</b> | Vue | Personal website |
-| 2 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | Python script for downloading video/audio |
+| 2 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
 | 1 | <b>[embler](https://github.com/probablykasper/embler)</b> | JS | Turn binaries into applications |
 | 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | A nice, simple text editor in your New Tab page |
@@ -38,4 +38,3 @@
 | 0 | <b>[yt-email-notifier](https://github.com/probablykasper/yt-email-notifier)</b> | JS | macOS menubar app for YouTube upload notification emails |
 | 1 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
 | 0 | <b>[serve](https://github.com/probablykasper/serve)</b> | Go | Simple static file/directory HTTP server |
-| 0 | <b>[gpm-to-itunes](https://github.com/probablykasper/gpm-to-itunes)</b> | Python | Imports Google Play Music library to iTunes |
