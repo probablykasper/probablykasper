@@ -44,7 +44,7 @@ module.exports = {
       'serve',
     ],
     modifyVariables: function(repo, moment, user) {
-      if (repo.REPO_LANGUAGE === 'JavaScript') repo.REPO_LANGUAGE = 'JS'
+      // if (repo.REPO_LANGUAGE === 'JavaScript') repo.REPO_LANGUAGE = 'JS'
       return repo
     },
   },
