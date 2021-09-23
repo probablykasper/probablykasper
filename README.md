@@ -37,5 +37,5 @@
 | 0 | <b>[yt-email-notifier](https://github.com/probablykasper/yt-email-notifier)</b> | JavaScript | macOS menubar app for YouTube upload notification emails |
 | 1 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
 | 0 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JavaScript | After Effects 2d camera |
-| 0 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI tool for converting audio, video and image files using FFmpeg and ImageMagick |
+| 0 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI audio, video and image file converter |
 | 0 | <b>[serve](https://github.com/probablykasper/serve)</b> | Go | Simple static file/directory HTTP server |
