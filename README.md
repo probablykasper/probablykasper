@@ -24,7 +24,7 @@
 
 | ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
 | -- | ------------ | -- | -------------- |
-| 41 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
+| 42 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 17 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 0 | <b>[v6.kasper.space](https://github.com/probablykasper/v6.kasper.space)</b> | Vue | Personal website |
 | 2 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
