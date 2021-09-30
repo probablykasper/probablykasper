@@ -29,7 +29,6 @@ module.exports = {
     repos: [
       'cpc',
       'ferrum',
-      'v6.kasper.space',
       'vidl',
       'embler',
       'notifier',
