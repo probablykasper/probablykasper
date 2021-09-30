@@ -30,6 +30,7 @@ module.exports = {
       'cpc',
       'ferrum',
       'vidl',
+      'date-picker-svelte',
       'embler',
       'notifier',
       'taskler',
