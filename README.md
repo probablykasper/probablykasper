@@ -31,7 +31,7 @@
 | 1 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
 | 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
-| 6 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
+| 7 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
 | 7 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 0 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JavaScript | Chrome extension for grabbing thumbnails/covers |
 | 0 | <b>[yt-email-notifier](https://github.com/probablykasper/yt-email-notifier)</b> | JavaScript | macOS menubar app for YouTube upload notification emails |
