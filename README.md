@@ -24,7 +24,7 @@
 
 | ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
 | -- | ------------ | -- | -------------- |
-| 48 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
+| 49 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 17 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 32 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
 | 4 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Rust | App for staying ontop of YouTube channel uploads |
@@ -32,7 +32,7 @@
 | 2 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
 | 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
-| 7 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
+| 8 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
 | 8 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 1 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JavaScript | Chrome extension for grabbing thumbnails/covers |
 | 2 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
