@@ -26,7 +26,7 @@
 | -- | ------------ | -- | -------------- |
 | 49 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 17 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
-| 37 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
+| 41 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
 | 6 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Rust | App for staying ontop of YouTube channel uploads |
 | 3 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
 | 2 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
