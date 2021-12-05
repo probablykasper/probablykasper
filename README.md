@@ -32,7 +32,7 @@
 | 2 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
 | 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Flutter app for scheduling notifications |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
-| 9 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
+| 10 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
 | 8 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 1 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JavaScript | Chrome extension for grabbing thumbnails/covers |
 | 2 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
