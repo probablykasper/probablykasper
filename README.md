@@ -1,4 +1,4 @@
-### Hi, I'm a developer from <img src="https://image.flaticon.com/icons/svg/197/197579.svg" width="16" /> Norway
+### Hi, I'm a developer from <img src="https://hatscripts.github.io/circle-flags/flags/no.svg" width="16" /> Norway
 
 <!--<p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-63B587?style=flat-square&logo=vue.js&logoColor=white" />
