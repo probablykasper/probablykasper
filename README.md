@@ -24,7 +24,7 @@
 
 | ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
 | -- | ------------ | -- | -------------- |
-| 50 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
+| 51 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 17 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 55 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
 | 10 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Rust | App for staying ontop of YouTube channel uploads |
