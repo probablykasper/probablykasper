@@ -28,13 +28,14 @@
 | 17 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 69 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
 | 12 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Rust | App for staying ontop of YouTube channels' uploads |
+| 13 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
+| 0 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
 | 3 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
+| 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
 | 2 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
 | 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Android app for scheduling notifications |
-| 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
-| 13 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
-| 10 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 1 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JavaScript | Chrome extension for grabbing thumbnails/covers |
+| 10 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 2 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
 | 0 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JavaScript | After Effects 2d camera |
 | 1 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI audio, video and image file converter |
