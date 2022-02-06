@@ -37,6 +37,6 @@
 | 1 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JavaScript | Chrome extension for grabbing thumbnails/covers |
 | 10 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 2 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
-| 0 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JavaScript | After Effects 2d camera |
+| 1 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JavaScript | After Effects 2d camera |
 | 1 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI audio, video and image file converter |
 | 0 | <b>[serve](https://github.com/probablykasper/serve)</b> | Go | Simple static file/directory HTTP server |
