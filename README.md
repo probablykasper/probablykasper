@@ -24,10 +24,10 @@
 
 | ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
 | -- | ------------ | -- | -------------- |
-| 56 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
+| 57 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 17 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 76 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
-| 17 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Rust | App for staying ontop of YouTube channels' uploads |
+| 18 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Rust | App for staying ontop of YouTube channels' uploads |
 | 18 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
 | 8 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
 | 3 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
