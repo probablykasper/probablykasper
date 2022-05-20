@@ -28,7 +28,7 @@
 | 19 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 95 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
 | 22 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Svelte | App for staying ontop of YouTube channels' uploads |
-| 26 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
+| 25 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
 | 15 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
 | 3 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
