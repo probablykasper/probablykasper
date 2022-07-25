@@ -27,9 +27,9 @@
 | 66 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 21 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 107 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
-| 35 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Svelte | App for staying ontop of YouTube channels' uploads |
+| 36 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Svelte | App for staying ontop of YouTube channels' uploads |
 | 29 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
-| 29 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
+| 30 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
 | 4 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
 | 3 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
