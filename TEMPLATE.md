@@ -33,6 +33,7 @@ module.exports = {
       'kadium',
       'mr-tagger',
       'time-machine-inspector',
+      'remind-me-again',
       'vidl',
       'taskler',
       'embler',
