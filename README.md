@@ -27,7 +27,7 @@
 | 66 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
 | 21 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
 | 107 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
-| 36 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Svelte | App for staying ontop of YouTube channels' uploads |
+| 37 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Svelte | App for staying ontop of YouTube channels' uploads |
 | 29 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
 | 30 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
 | 8 | <b>[remind-me-again](https://github.com/probablykasper/remind-me-again)</b> | Rust | Toggleable cron reminders app for Mac, Linux and Windows |
