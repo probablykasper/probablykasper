@@ -30,7 +30,7 @@
 | 41 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Svelte | App for staying ontop of YouTube channels' uploads |
 | 32 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
 | 30 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
-| 9 | <b>[remind-me-again](https://github.com/probablykasper/remind-me-again)</b> | Rust | Toggleable cron reminders app for Mac, Linux and Windows |
+| 10 | <b>[remind-me-again](https://github.com/probablykasper/remind-me-again)</b> | Rust | Toggleable cron reminders app for Mac, Linux and Windows |
 | 4 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
 | 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
 | 3 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
