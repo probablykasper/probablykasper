@@ -70,5 +70,5 @@ module.exports = {
 | ⭐️ | 📦 Repo       | 📚 Description |
 | -- | ------------ | -------------- |
 {{ loop CUSTOM_PINNED_REPOS }}
-| {{ REPO_STARS }} | <a href="{{ REPO_URL }}"><b>{{ REPO_NAME }}</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| {{ REPO_STARS }} | <a href="{{ REPO_URL }}"><b>{{ REPO_NAME }}</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | {{ REPO_DESCRIPTION }} |
 {{ end CUSTOM_PINNED_REPOS }}
