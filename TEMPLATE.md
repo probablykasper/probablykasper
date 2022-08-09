@@ -47,6 +47,19 @@ module.exports = {
     ],
     modifyVariables: function(repo, moment, user) {
       // if (repo.REPO_LANGUAGE === 'JavaScript') repo.REPO_LANGUAGE = 'JS'
+      let imgSrc = null
+      if (repo.REPO_LANGUAGE === 'Rust') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg'
+      // if (repo.REPO_LANGUAGE === 'Svelte') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg'
+      if (repo.REPO_LANGUAGE === 'Svelte') imgSrc = 'https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg'
+      if (repo.REPO_LANGUAGE === 'Python') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'
+      if (repo.REPO_LANGUAGE === 'Stylus') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg'
+      if (repo.REPO_LANGUAGE === 'JavaScript') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'
+      if (repo.REPO_LANGUAGE === 'Dart') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'
+      if (repo.REPO_LANGUAGE === 'TypeScript') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'
+      if (repo.REPO_LANGUAGE === 'Shell') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'
+      if (repo.REPO_LANGUAGE === 'Go') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg'
+      
+      if (imgSrc !== null) repo.REPO_LANGUAGE = `<img src="${imgSrc}" width="14" height="14" />`
       return repo
     },
   },
@@ -54,8 +67,9 @@ module.exports = {
 // {{ :TEMPLATE }}
 ```
 
-| ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
-| -- | ------------ | -- | -------------- |
+| ⭐️ | 📦 Repo       | 📚 Description |
+| -- | ------------ | -------------- |
 {{ loop CUSTOM_PINNED_REPOS }}
 | {{ REPO_STARS }} | <b>[{{ REPO_NAME }}]({{ REPO_URL }})</b> | {{ REPO_LANGUAGE }} | {{ REPO_DESCRIPTION }} |
+| {{ REPO_STARS }} | <a href="{{ REPO_URL }}"><b>{{ REPO_NAME }}</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
 {{ end CUSTOM_PINNED_REPOS }}
