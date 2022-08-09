@@ -22,22 +22,39 @@
 </p>-->
 
 
-| ⭐️ | 📦 Repo       | 🧰 | 📚 Description |
-| -- | ------------ | -- | -------------- |
-| 66 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | Rust | Text calculator with support for units and conversion |
-| 22 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | Rust | Music library app for Mac, Linux and Windows |
-| 109 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | Svelte | Date and time picker for Svelte |
-| 43 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | Svelte | App for staying ontop of YouTube channels' uploads |
-| 32 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | Rust | Music file tagging app for Mac, Linux and Windows |
-| 31 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | Rust | Time Machine backup size inspector app |
-| 10 | <b>[remind-me-again](https://github.com/probablykasper/remind-me-again)</b> | Rust | Toggleable cron reminders app for Mac, Linux and Windows |
-| 4 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | Python | CLI for downloading video/audio |
-| 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | Stylus | Simple text editor for your New Tab page |
-| 3 | <b>[embler](https://github.com/probablykasper/embler)</b> | JavaScript | Turn binaries into applications |
-| 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | Dart | Android app for scheduling notifications |
-| 2 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | JavaScript | Chrome extension for grabbing thumbnails/covers |
-| 11 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | Rust | AAC decoder for MPEG-4 and AAC files, with rodio support |
-| 4 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | TypeScript | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
-| 1 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | JavaScript | After Effects 2d camera |
-| 1 | <b>[to](https://github.com/probablykasper/to)</b> | Shell | CLI audio, video and image file converter |
-| 0 | <b>[serve](https://github.com/probablykasper/serve)</b> | Go | Simple static file/directory HTTP server |
+| ⭐️ | 📦 Repo       | 📚 Description |
+| -- | ------------ | -------------- |
+| 66 | <b>[cpc](https://github.com/probablykasper/cpc)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /> | Text calculator with support for units and conversion |
+| 66 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 22 | <b>[ferrum](https://github.com/probablykasper/ferrum)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /> | Music library app for Mac, Linux and Windows |
+| 22 | <a href="https://github.com/probablykasper/ferrum"><b>ferrum</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 109 | <b>[date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /> | Date and time picker for Svelte |
+| 109 | <a href="https://github.com/probablykasper/date-picker-svelte"><b>date-picker-svelte</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 44 | <b>[kadium](https://github.com/probablykasper/kadium)</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /> | App for staying ontop of YouTube channels' uploads |
+| 44 | <a href="https://github.com/probablykasper/kadium"><b>kadium</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 32 | <b>[mr-tagger](https://github.com/probablykasper/mr-tagger)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /> | Music file tagging app for Mac, Linux and Windows |
+| 32 | <a href="https://github.com/probablykasper/mr-tagger"><b>mr-tagger</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 31 | <b>[time-machine-inspector](https://github.com/probablykasper/time-machine-inspector)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /> | Time Machine backup size inspector app |
+| 31 | <a href="https://github.com/probablykasper/time-machine-inspector"><b>time-machine-inspector</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 10 | <b>[remind-me-again](https://github.com/probablykasper/remind-me-again)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /> | Toggleable cron reminders app for Mac, Linux and Windows |
+| 10 | <a href="https://github.com/probablykasper/remind-me-again"><b>remind-me-again</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 4 | <b>[vidl](https://github.com/probablykasper/vidl)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" /> | CLI for downloading video/audio |
+| 4 | <a href="https://github.com/probablykasper/vidl"><b>vidl</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 1 | <b>[taskler](https://github.com/probablykasper/taskler)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" width="14" height="14" /> | Simple text editor for your New Tab page |
+| 1 | <a href="https://github.com/probablykasper/taskler"><b>taskler</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 3 | <b>[embler](https://github.com/probablykasper/embler)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" height="14" /> | Turn binaries into applications |
+| 3 | <a href="https://github.com/probablykasper/embler"><b>embler</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 2 | <b>[notifier](https://github.com/probablykasper/notifier)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="14" height="14" /> | Android app for scheduling notifications |
+| 2 | <a href="https://github.com/probablykasper/notifier"><b>notifier</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 2 | <b>[thumbnail-grabber](https://github.com/probablykasper/thumbnail-grabber)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" height="14" /> | Chrome extension for grabbing thumbnails/covers |
+| 2 | <a href="https://github.com/probablykasper/thumbnail-grabber"><b>thumbnail-grabber</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 11 | <b>[redlux](https://github.com/probablykasper/redlux)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /> | AAC decoder for MPEG-4 and AAC files, with rodio support |
+| 11 | <a href="https://github.com/probablykasper/redlux"><b>redlux</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 4 | <b>[readme-template-action](https://github.com/probablykasper/readme-template-action)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" height="14" /> | Generate README.md from TEMPLATE.md with GitHub API data. Supports loops and custom queries |
+| 4 | <a href="https://github.com/probablykasper/readme-template-action"><b>readme-template-action</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 1 | <b>[2dcam](https://github.com/probablykasper/2dcam)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" height="14" /> | After Effects 2d camera |
+| 1 | <a href="https://github.com/probablykasper/2dcam"><b>2dcam</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 1 | <b>[to](https://github.com/probablykasper/to)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="14" height="14" /> | CLI audio, video and image file converter |
+| 1 | <a href="https://github.com/probablykasper/to"><b>to</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 0 | <b>[serve](https://github.com/probablykasper/serve)</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="14" height="14" /> | Simple static file/directory HTTP server |
+| 0 | <a href="https://github.com/probablykasper/serve"><b>serve</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
