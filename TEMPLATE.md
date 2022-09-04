@@ -48,7 +48,7 @@ module.exports = {
     modifyVariables: function(repo, moment, user) {
       // if (repo.REPO_LANGUAGE === 'JavaScript') repo.REPO_LANGUAGE = 'JS'
       let imgSrc = null
-      if (repo.REPO_LANGUAGE === 'Rust') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg'
+      if (repo.REPO_LANGUAGE === 'Rust') imgSrc = './rust.svg'
       // if (repo.REPO_LANGUAGE === 'Svelte') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg'
       if (repo.REPO_LANGUAGE === 'Svelte') imgSrc = 'https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg'
       if (repo.REPO_LANGUAGE === 'Python') imgSrc = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'
