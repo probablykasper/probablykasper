@@ -24,11 +24,11 @@
 
 | ⭐️ | 📦 Repo       | 📚 Description |
 | -- | ------------ | -------------- |
-| 69 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 70 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
 | 23 | <a href="https://github.com/probablykasper/ferrum"><b>ferrum</b> <img src="./rust.svg" width="14" height="14" /></a> | Music library app for Mac, Linux and Windows |
 | 112 | <a href="https://github.com/probablykasper/date-picker-svelte"><b>date-picker-svelte</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Date and time picker for Svelte |
-| 50 | <a href="https://github.com/probablykasper/kadium"><b>kadium</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | App for staying ontop of YouTube channels' uploads |
-| 36 | <a href="https://github.com/probablykasper/mr-tagger"><b>mr-tagger</b> <img src="./rust.svg" width="14" height="14" /></a> | Music file tagging app for Mac, Linux and Windows |
+| 51 | <a href="https://github.com/probablykasper/kadium"><b>kadium</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | App for staying ontop of YouTube channels' uploads |
+| 37 | <a href="https://github.com/probablykasper/mr-tagger"><b>mr-tagger</b> <img src="./rust.svg" width="14" height="14" /></a> | Music file tagging app for Mac, Linux and Windows |
 | 32 | <a href="https://github.com/probablykasper/time-machine-inspector"><b>time-machine-inspector</b> <img src="./rust.svg" width="14" height="14" /></a> | Time Machine backup size inspector app |
 | 13 | <a href="https://github.com/probablykasper/remind-me-again"><b>remind-me-again</b> <img src="./rust.svg" width="14" height="14" /></a> | Toggleable cron reminders app for Mac, Linux and Windows |
 | 4 | <a href="https://github.com/probablykasper/vidl"><b>vidl</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" /></a> | CLI for downloading video/audio |
