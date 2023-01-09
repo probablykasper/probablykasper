@@ -24,10 +24,10 @@
 
 | ⭐️ | 📦 Repo       | 📚 Description |
 | -- | ------------ | -------------- |
-| 82 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 83 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
 | 28 | <a href="https://github.com/probablykasper/ferrum"><b>ferrum</b> <img src="./rust.svg" width="14" height="14" /></a> | Music library app for Mac, Linux and Windows |
-| 144 | <a href="https://github.com/probablykasper/date-picker-svelte"><b>date-picker-svelte</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Date and time picker for Svelte |
-| 68 | <a href="https://github.com/probablykasper/kadium"><b>kadium</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | App for staying ontop of YouTube channels' uploads |
+| 145 | <a href="https://github.com/probablykasper/date-picker-svelte"><b>date-picker-svelte</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Date and time picker for Svelte |
+| 69 | <a href="https://github.com/probablykasper/kadium"><b>kadium</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | App for staying ontop of YouTube channels' uploads |
 | 49 | <a href="https://github.com/probablykasper/mr-tagger"><b>mr-tagger</b> <img src="./rust.svg" width="14" height="14" /></a> | Music file tagging app for Mac, Linux and Windows |
 | 45 | <a href="https://github.com/probablykasper/time-machine-inspector"><b>time-machine-inspector</b> <img src="./rust.svg" width="14" height="14" /></a> | Time Machine backup size inspector app |
 | 25 | <a href="https://github.com/probablykasper/remind-me-again"><b>remind-me-again</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Toggleable cron reminders app for Mac, Linux and Windows |
