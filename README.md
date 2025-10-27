@@ -24,7 +24,7 @@
 
 | ⭐️ | 📦 Repo       | 📚 Description |
 | -- | ------------ | -------------- |
-| 153 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 154 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
 | 51 | <a href="https://github.com/probablykasper/ferrum"><b>ferrum</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Music library app for Mac, Linux and Windows |
 | 339 | <a href="https://github.com/probablykasper/date-picker-svelte"><b>date-picker-svelte</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Date and time picker for Svelte |
 | 119 | <a href="https://github.com/probablykasper/kadium"><b>kadium</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | App for staying ontop of YouTube channels' uploads |
