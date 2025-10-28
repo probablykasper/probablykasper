@@ -31,7 +31,7 @@
 | 12 | <a href="https://github.com/probablykasper/starchart"><b>starchart</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | GitHub star history graph |
 | 84 | <a href="https://github.com/probablykasper/mr-tagger"><b>mr-tagger</b> <img src="./rust.svg" width="14" height="14" /></a> | Music file tagging app for Mac, Linux and Windows |
 | 106 | <a href="https://github.com/probablykasper/time-machine-inspector"><b>time-machine-inspector</b> <img src="./rust.svg" width="14" height="14" /></a> | Time Machine backup size inspector app |
-| 89 | <a href="https://github.com/probablykasper/remind-me-again"><b>remind-me-again</b> <img src="./rust.svg" width="14" height="14" /></a> | Toggleable cron reminders app for Mac, Linux and Windows |
+| 90 | <a href="https://github.com/probablykasper/remind-me-again"><b>remind-me-again</b> <img src="./rust.svg" width="14" height="14" /></a> | Toggleable cron reminders app for Mac, Linux and Windows |
 | 5 | <a href="https://github.com/probablykasper/vidl"><b>vidl</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" /></a> | CLI for downloading video/audio |
 | 3 | <a href="https://github.com/probablykasper/taskler"><b>taskler</b> <img src="https://stylus-lang.com/logo.svg" width="14" height="14" /></a> | Simple text editor for your New Tab page |
 | 9 | <a href="https://github.com/probablykasper/thumbnail-grabber"><b>thumbnail-grabber</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" height="14" /></a> | Chrome extension for grabbing thumbnails/covers |
