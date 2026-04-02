@@ -24,7 +24,7 @@
 
 | ⭐️ | 📦 Repo       | 📚 Description |
 | -- | ------------ | -------------- |
-| 159 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
+| 158 | <a href="https://github.com/probablykasper/cpc"><b>cpc</b> <img src="./rust.svg" width="14" height="14" /></a> | Text calculator with support for units and conversion |
 | 55 | <a href="https://github.com/probablykasper/ferrum"><b>ferrum</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Music library app for Mac, Linux and Windows |
 | 341 | <a href="https://github.com/probablykasper/date-picker-svelte"><b>date-picker-svelte</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | Date and time picker for Svelte |
 | 211 | <a href="https://github.com/probablykasper/kadium"><b>kadium</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | App for staying ontop of YouTube channels' uploads |
@@ -38,7 +38,7 @@
 | 3 | <a href="https://github.com/probablykasper/embler"><b>embler</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" height="14" /></a> | Turn binaries into applications |
 | 5 | <a href="https://github.com/probablykasper/notifier"><b>notifier</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="14" height="14" /></a> | Android app for scheduling notifications |
 | 14 | <a href="https://github.com/probablykasper/readme-template-action"><b>readme-template-action</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" height="14" /></a> | Integrate GitHub API data in your README.md |
-| 19 | <a href="https://github.com/probablykasper/redlux"><b>redlux</b> <img src="./rust.svg" width="14" height="14" /></a> | AAC decoder for MPEG-4 and AAC files, with rodio support |
+| 18 | <a href="https://github.com/probablykasper/redlux"><b>redlux</b> <img src="./rust.svg" width="14" height="14" /></a> | AAC decoder for MPEG-4 and AAC files, with rodio support |
 | 1 | <a href="https://github.com/probablykasper/2dcam"><b>2dcam</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" height="14" /></a> | After Effects 2d camera |
 | 3 | <a href="https://github.com/probablykasper/to"><b>to</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="14" height="14" /></a> | CLI audio, video and image file converter |
 | 2 | <a href="https://github.com/probablykasper/serve"><b>serve</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="14" height="14" /></a> | Simple static file/directory HTTP server |
