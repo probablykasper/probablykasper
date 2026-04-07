@@ -32,7 +32,7 @@
 | 170 | <a href="https://github.com/probablykasper/mr-tagger"><b>mr-tagger</b> <img src="./rust.svg" width="14" height="14" /></a> | Music file tagging app for Mac, Linux and Windows |
 | 194 | <a href="https://github.com/probablykasper/time-machine-inspector"><b>time-machine-inspector</b> <img src="./rust.svg" width="14" height="14" /></a> | Time Machine backup size inspector app |
 | 178 | <a href="https://github.com/probablykasper/remind-me-again"><b>remind-me-again</b> <img src="./rust.svg" width="14" height="14" /></a> | Toggleable cron reminders app for Mac, Linux and Windows |
-| 5 | <a href="https://github.com/probablykasper/vidl"><b>vidl</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" /></a> | CLI for downloading video/audio |
+| 6 | <a href="https://github.com/probablykasper/vidl"><b>vidl</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" /></a> | CLI for downloading video/audio |
 | 3 | <a href="https://github.com/probablykasper/taskler"><b>taskler</b> <img src="https://stylus-lang.com/logo.svg" width="14" height="14" /></a> | Simple text editor for your New Tab page |
 | 10 | <a href="https://github.com/probablykasper/thumbnail-grabber"><b>thumbnail-grabber</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" height="14" /></a> | Chrome extension for grabbing thumbnails/covers |
 | 3 | <a href="https://github.com/probablykasper/embler"><b>embler</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" height="14" /></a> | Turn binaries into applications |
